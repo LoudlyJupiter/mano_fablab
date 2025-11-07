@@ -134,6 +134,6 @@ La mano robótica replica el gesto ✌️ frente a la cámara.
 
 Créditos
 
-Desarrollado por [FablabUV]
+Desarrollado por [Maria-Ignacia Rojas, FabLab UV]
 Basado en tecnologías de *OpenCV*, *MediaPipe* y *Adafruit*.
 Versión actual: *v1 – En desarrollo*
