@@ -65,8 +65,6 @@ El programa:
 | TRES_DEDOS      | Mueve índice, medio y anular          |
 | CUATRO_DEDOS    | Mueve índice, medio, anular y meñique |
 
-En versiones futuras se planea añadir detección de más gestos, control independiente de cada falange y movimientos más suaves mediante interpolación.
-
 ---
 
 ## Conexiones de hardware
@@ -78,7 +76,7 @@ En versiones futuras se planea añadir detección de más gestos, control indepe
 | PCA9685 - VCC  | 5V                                |
 | PCA9685 - GND  | GND                               |
 | Servos         | Canales 0–4 del PCA9685           |
-| Fuente externa | 5V y GND (compartido con Arduino) |
+| Fuente externa | 5V (V+) y GND (compartido con Arduino) |
 
 ---
 
